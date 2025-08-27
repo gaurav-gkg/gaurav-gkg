@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px">  
+## 🛠️ Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,solidity,git,github,tailwind,figma&theme=dark" />
