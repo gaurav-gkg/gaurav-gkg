@@ -27,17 +27,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-gkg&show_icons=true&theme=radical" alt="Gaurav's GitHub Stats" height="180" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-gkg&theme=radical" alt="GitHub Streak" height="180" />
-</p>
-
----
-
-<div align="center">
 
 ## 🌟 Let's Connect!  
 
