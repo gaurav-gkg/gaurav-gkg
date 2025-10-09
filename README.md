@@ -33,7 +33,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-gkg)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/GauravGupta_dev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gaurav_gkg.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gauravgkg.tech)
 [![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravkrguptagkg@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaurav-gkg&color=blueviolet&style=for-the-badge)
