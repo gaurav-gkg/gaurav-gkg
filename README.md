@@ -27,7 +27,15 @@
 
 ---
 
+## 🏆 Holopin Badges  
 
+<p align="center">
+  <a href="https://holopin.io/@gauravgkg">
+    <img src="https://holopin.me/gauravgkg" alt="@gauravgkg's Holopin badges" />
+  </a>
+</p>
+
+---
 
 ## 🌟 Let's Connect!  
 
@@ -39,4 +47,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=gaurav-gkg&color=blueviolet&style=for-the-badge)
 
 </div>
-
